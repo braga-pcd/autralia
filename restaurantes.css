@@ -5,10 +5,13 @@
     scroll-padding-top: 12rem;
     scroll-behavior: smooth;
     font-family: 'Poppins', sans-serif;
+    
 }
 
+
+
 body{
-    min-height: 100svh;
+    height: 100vh;
     overflow: hidden;
     display: flex;
     background-color: #f2b284;
@@ -25,11 +28,12 @@ body{
 
 
 #background{
-    width: 1980px;
+    width: 2000px;
     height: 1170px;
     z-index: 1;
     position: relative;
     top: -45px;
+    left: -40px;
     
 }
 
@@ -96,7 +100,7 @@ li{
     color: #ffa469;
 }
 
-#cu{
+#res{
     border-left: 3px solid #bb6537;
     color:#bb6537;
 }
@@ -112,7 +116,7 @@ li{
 h1{
     position: relative;
     top: 35px;
-    left: 735px;
+    left: 945px;
     z-index: 10;
     font-size: 120px;
     font-family: "Fjord One", serif;

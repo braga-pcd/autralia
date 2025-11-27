@@ -10,7 +10,7 @@
 }
 
 body{
-    height: 100vh;
+    min-height: 100svh;
     overflow: hidden;
     
 }
@@ -116,8 +116,8 @@ p{
 
 h1{
     position: relative;
-    bottom: 786px;
-    left: 816px;
+    bottom: 780px;
+    left: 838px;
     z-index: 10;
     font-size: 120px;
     font-family: "Fjord One", serif;

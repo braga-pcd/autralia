@@ -5,6 +5,7 @@
     scroll-padding-top: 12rem;
     scroll-behavior: smooth;
     font-family: 'Poppins', sans-serif;
+    
 }
 
 body{
@@ -176,3 +177,6 @@ h2{
 
 }
 
+strong{
+    font: 900;
+}
